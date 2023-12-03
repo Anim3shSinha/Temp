@@ -1,0 +1,11 @@
+.alert {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+}
